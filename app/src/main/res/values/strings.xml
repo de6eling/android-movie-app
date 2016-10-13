@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Movie Watch List</string>
+    <string name="connection_error" />
+</resources>
